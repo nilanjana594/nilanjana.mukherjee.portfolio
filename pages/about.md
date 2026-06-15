@@ -9,7 +9,7 @@ weight: 3
 
 Hi, I am **Nilanjana** :wave: <!-- **{{ site.author.name }}** -->
 
-,an aspiring UI/UX Designer and CSBS student passionate about creating simple, intuitive, and meaningful digital experiences.
+an aspiring UI/UX Designer and CSBS student passionate about creating simple, intuitive, and meaningful digital experiences.
 As of right now, I am creating beautiful and useful landing pages for real estate agents and companies, taking into account their needs and the target group. My daily tools are Figma, Canva, Claude and many AI tools :)
 
 <!-- 
