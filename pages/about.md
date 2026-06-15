@@ -7,11 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi, I am **Nga** :wave: <!-- **{{ site.author.name }}** -->
+Hi, I am **Nilanjana** :wave: <!-- **{{ site.author.name }}** -->
 
-I’m a Junior Visual Designer currently working at Scout24.
-
-As of right now, I am creating beautiful and useful landing pages for real estate agents and companies, taking into account their needs and the target group. My daily tools are WordPress, Elementor, PhotoShop, and Illustrator :)
+,an aspiring UI/UX Designer and CSBS student passionate about creating simple, intuitive, and meaningful digital experiences.
+As of right now, I am creating beautiful and useful landing pages for real estate agents and companies, taking into account their needs and the target group. My daily tools are Figma, Canva, Claude and many AI tools :)
 
 <!-- 
 Through various university projects I’ve learned the basics of media design including UI and UX design but would love to get a deeper understanding of work flows and how to improve my designs. <br>
